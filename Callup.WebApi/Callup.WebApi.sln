@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Callup.WebApi", "Callup.WebApi\Callup.WebApi.csproj", "{7129552E-17B5-459F-A975-529331C04B46}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7129552E-17B5-459F-A975-529331C04B46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7129552E-17B5-459F-A975-529331C04B46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7129552E-17B5-459F-A975-529331C04B46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7129552E-17B5-459F-A975-529331C04B46}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5ED7097A-7CE9-4CEB-810C-36B4EAA8E30C}
+	EndGlobalSection
+EndGlobal
